@@ -1,3 +1,3 @@
-# terraform
+# Terraform samples
 
-# Basic Terraform scripts
+Basic Terraform scripts
